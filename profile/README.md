@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a name="logo" href="https://github.com/HyperEnvy"><img src="https://raw.githubusercontent.com/HyperEnvy/.github/master/hyperenvy.png" alt="Hyper Envy" width="200"></a>
+  <a name="logo" href="https://github.com/HyperEnvy"><img src="https://raw.githubusercontent.com/HyperEnvy/.github/main/hyperenvy.png" alt="Hyper Envy" width="200"></a>
   <br>
 Hyper Envy is in stealth mode
 </h1>
